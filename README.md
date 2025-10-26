@@ -1,4 +1,5 @@
 🌱 About Me
+
 I am currently enrolled in the ALX Frontend Development Program and building the fundamentals needed to become a professional frontend engineer. I am committed to learning clean coding practices, developing a strong debugging mindset, and growing into a developer who creates elegant, user-centered interfaces.
 
 My learning style is visual, structured, and iterative, which means I excel when knowledge is built step by step with real-life connections and hands-on practice.
